@@ -1,24 +1,32 @@
-# Ehab Tawfik — Portfolio
+# Ehab Tawfik — Developer Portfolio
 
-This repository contains a simple static portfolio site for my GitHub profile.
+Personal portfolio website showcasing my background, technical interests, and selected development work.
 
-Live preview (after enabling GitHub Pages):
-https://helx0.github.io/ehab-tawfik-portfolio/
+## About
 
-Files added:
-- index.html — main portfolio page
-- css/style.css — styles for the page
+I'm Ehab Tawfik Ahmed, an Information Technology student interested in software development, web technologies, networking, and practical technology projects.
 
-How to publish
-1. Go to repository Settings → Pages.
-2. Under Source, choose Branch: main and Folder: / (root). Save.
-3. The site will be available at the URL above once published.
+## Project
 
-Customize
-- Edit `index.html` to update the bio, email, LinkedIn, or project descriptions.
-- Replace the avatar URL with your own image if you want a different picture.
+This repository contains the source files for my portfolio website. The site is built as a static web project.
 
-If you want, I can:
-- Add a contact form (Netlify Forms or simple mailto link).
-- Improve styles or add animations.
-- Localize to Arabic/dual-language.
+## Run locally
+
+1. Clone this repository:
+   `git clone https://github.com/helx0/ehab-tawfik-portfolio.git`
+2. Open the project folder.
+3. Open `index.html` in a modern browser.
+
+You can also serve the folder with a local development server.
+
+## Deployment
+
+The repository can be published with GitHub Pages after enabling it in **Settings → Pages** and selecting the appropriate branch and folder.
+
+## Author
+
+**Ehab Tawfik Ahmed**  
+GitHub: [@helx0](https://github.com/helx0)
+
+---
+*Built to present my learning journey and development projects.*
