@@ -1,32 +1,44 @@
-# Ehab Tawfik — Developer Portfolio
+# Ehab Tawfik Ahmed — Developer Portfolio
 
-Personal portfolio website showcasing my background, technical interests, and selected development work.
+A responsive personal portfolio presenting my background, technologies I have explored, and selected GitHub projects.
 
 ## About
 
-I'm Ehab Tawfik Ahmed, an Information Technology student interested in software development, web technologies, networking, and practical technology projects.
+I am an Information Technology student interested in software development, web technologies, networking, and practical problem-solving. I enjoy learning by building and turning ideas into working prototypes.
 
-## Project
+## Featured work
 
-This repository contains the source files for my portfolio website. The site is built as a static web project.
+- **[Farsa — Job Platform](https://github.com/helx0/farsa-job-platform):** an employment platform project in active development.
+- **[Network Visualization](https://github.com/helx0/network-):** a browser-based network visualization experiment.
+- **[Hotspot Network Visualization](https://github.com/helx0/hotspot-page-):** a small web experiment.
+- **[University Study Bot](https://github.com/helx0/bot-for-university-AGUI):** a Telegram bot project for organizing academic materials; still under development.
+- **[Learn Git with Al-Zero](https://github.com/helx0/learn-git-with-alzero):** a web learning resource about Git.
+
+Project status and implementation details may change. Visit each repository for its current source and documentation.
+
+## Technologies and interests
+
+HTML, CSS, JavaScript, PHP, MySQL, Python, Flutter, Dart, Git, GitHub, computer networks, Linux, and virtualization.
+
+These are technologies I have studied or used in projects; my experience varies by topic.
 
 ## Run locally
 
-1. Clone this repository:
-   `git clone https://github.com/helx0/ehab-tawfik-portfolio.git`
-2. Open the project folder.
-3. Open `index.html` in a modern browser.
+```bash
+git clone https://github.com/helx0/ehab-tawfik-portfolio.git
+cd ehab-tawfik-portfolio
+python -m http.server 8000
+```
 
-You can also serve the folder with a local development server.
+Open [http://localhost:8000](http://localhost:8000) in your browser.
 
-## Deployment
+The site is a static HTML/CSS project and does not require a build step.
 
-The repository can be published with GitHub Pages after enabling it in **Settings → Pages** and selecting the appropriate branch and folder.
+## Contact
 
-## Author
-
-**Ehab Tawfik Ahmed**  
-GitHub: [@helx0](https://github.com/helx0)
+- Email: [eng.ayhabtwfyq@gmail.com](mailto:eng.ayhabtwfyq@gmail.com)
+- GitHub: [@helx0](https://github.com/helx0)
 
 ---
-*Built to present my learning journey and development projects.*
+
+Built and maintained by **Ehab Tawfik Ahmed**.
